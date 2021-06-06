@@ -1,0 +1,8 @@
+An: Hoa, Hong, Dung, Tien, Tung, Toan
+Hong: Hoa, An, Dung, Tien
+Dung: Tien, An, Hoa, Minh
+Tien: An, Minh
+Tung: Hung, Dung, An
+Toan: Linh, An, Dung
+Ly: Minh, Lam, Linh
+Linh: Hoan, Hai
